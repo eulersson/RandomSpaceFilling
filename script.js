@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
- * Implemented from: Paul Bourke's Random space filling tiling of the plane:
+ * Implemented from: Paul Bourke's Random Space Filling Tiling of the Plane:
  * http://paulbourke.net/texture_colour/randomtile/
  *  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
